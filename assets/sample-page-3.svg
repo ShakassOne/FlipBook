@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900">
+  <rect width="700" height="900" fill="#ffffff"/>
+  <text x="60" y="120" fill="#222" font-family="Arial" font-size="40">Content</text>
+  <rect x="60" y="160" width="580" height="4" fill="#e0e0e0"/>
+  <rect x="60" y="220" width="180" height="110" fill="#4a90e2"/>
+  <rect x="260" y="220" width="180" height="110" fill="#bbbbbb"/>
+  <rect x="460" y="220" width="180" height="110" fill="#4a4a4a"/>
+  <text x="270" y="290" fill="#ffffff" font-family="Arial" font-size="24">04</text>
+  <rect x="60" y="360" width="580" height="160" fill="#f3f3f3"/>
+  <text x="80" y="430" fill="#222" font-family="Arial" font-size="22">Bedroom</text>
+  <rect x="60" y="540" width="580" height="160" fill="#f3f3f3"/>
+  <text x="80" y="610" fill="#222" font-family="Arial" font-size="22">Living Room</text>
+  <rect x="60" y="720" width="580" height="140" fill="#f3f3f3"/>
+  <text x="80" y="800" fill="#222" font-family="Arial" font-size="22">Bathroom</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900">
+  <rect width="700" height="900" fill="#ffffff"/>
+  <rect x="50" y="60" width="600" height="280" fill="#0b2239"/>
+  <text x="90" y="200" fill="#ffffff" font-family="Arial" font-size="52">welcome</text>
+  <rect x="60" y="380" width="260" height="150" fill="#dcdcdc"/>
+  <rect x="340" y="380" width="300" height="450" fill="#f1f1f1"/>
+  <text x="360" y="430" fill="#333" font-family="Arial" font-size="20">Fresh inspiration</text>
+  <text x="360" y="470" fill="#666" font-family="Arial" font-size="14">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</text>
+  <text x="360" y="500" fill="#666" font-family="Arial" font-size="14">Pellentesque dignissim ipsum ut orci luctus, vitae.</text>
+</svg>
