@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fdfdfd"/>
+      <stop offset="1" stop-color="#f1f1f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="900" fill="url(#g)"/>
+  <rect x="48" y="60" width="604" height="36" fill="#2f2f2f"/>
+  <text x="60" y="84" fill="#ffffff" font-family="Arial" font-size="18">Living Design / Collection 2024</text>
+  <text x="60" y="150" fill="#1f1f1f" font-family="Arial" font-size="54" font-weight="700">living with</text>
+  <text x="60" y="210" fill="#1f1f1f" font-family="Arial" font-size="54" font-weight="700">style</text>
+  <rect x="420" y="120" width="180" height="180" fill="#1f1f1f"/>
+  <text x="458" y="220" fill="#ffffff" font-family="Arial" font-size="24">NEW</text>
+  <rect x="60" y="260" width="580" height="520" fill="#d0d0d0"/>
+  <text x="60" y="830" fill="#7a7a7a" font-family="Arial" font-size="16">www.livingdesign.com</text>
+</svg>
